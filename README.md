@@ -43,5 +43,5 @@ I would like to better understand how to use background colors and gradients.
 
 ## Author
 
-- Website - [www.jeremyinabnit.com]
-- Twitter - [@jeremyInabnit]
+- Website - [Jeremy Inabnit](https://www.jeremyinabnit.com)
+- Twitter - [@jeremyinabnit](https://www.twitter.com/jeremyinabnit)
